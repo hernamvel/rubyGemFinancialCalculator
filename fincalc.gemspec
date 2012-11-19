@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2012-11-07}
   s.description = %q{A simple financial calculator}
   s.email = %q{hernamvel@gmail.com}
-  s.files = ["Rakefile", "lib/fincalc.rb","bin/hola"]
+  s.files = ["Rakefile", "lib/fincalc.rb","bin/fincalc"]
   s.test_files = ["test/test_fincalc.rb"]
   s.homepage = %q{http://rubygems.org/gems/fincalc}
   s.require_paths = ["lib"]
